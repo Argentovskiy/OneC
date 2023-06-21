@@ -1,0 +1,16 @@
+C:\Argent\OneC#\Examples\Example_base\bin\Debug\net8.0\Example_base.exe
+C:\Argent\OneC#\Examples\Example_base\bin\Debug\net8.0\Example_base.deps.json
+C:\Argent\OneC#\Examples\Example_base\bin\Debug\net8.0\Example_base.runtimeconfig.json
+C:\Argent\OneC#\Examples\Example_base\bin\Debug\net8.0\Example_base.dll
+C:\Argent\OneC#\Examples\Example_base\bin\Debug\net8.0\Example_base.pdb
+C:\Argent\OneC#\Examples\Example_base\obj\Debug\net8.0\Example_base.csproj.AssemblyReference.cache
+C:\Argent\OneC#\Examples\Example_base\obj\Debug\net8.0\Example_base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Argent\OneC#\Examples\Example_base\obj\Debug\net8.0\Example_base.AssemblyInfoInputs.cache
+C:\Argent\OneC#\Examples\Example_base\obj\Debug\net8.0\Example_base.AssemblyInfo.cs
+C:\Argent\OneC#\Examples\Example_base\obj\Debug\net8.0\Example_base.csproj.CoreCompileInputs.cache
+C:\Argent\OneC#\Examples\Example_base\obj\Debug\net8.0\Example_base.sourcelink.json
+C:\Argent\OneC#\Examples\Example_base\obj\Debug\net8.0\Example_base.dll
+C:\Argent\OneC#\Examples\Example_base\obj\Debug\net8.0\refint\Example_base.dll
+C:\Argent\OneC#\Examples\Example_base\obj\Debug\net8.0\Example_base.pdb
+C:\Argent\OneC#\Examples\Example_base\obj\Debug\net8.0\Example_base.genruntimeconfig.cache
+C:\Argent\OneC#\Examples\Example_base\obj\Debug\net8.0\ref\Example_base.dll
